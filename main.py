@@ -1,8 +1,6 @@
 from create_UI import UI
 import os
 
-#c와 b와 a_3_1_2세트
-
 
 
 def main():
